@@ -1,0 +1,40 @@
+{
+  "templates": [
+    "Variable casting test~ $asd{asdvewer} $title{$asd %personaje% the %accion%} $title",
+    "Random number test~ #rnd{0,100}",
+    "Me importa #rnd{1000,10000} hectareas de verga",
+    "Tags test~ %insulto% %consejo% %personaje% the %accion% %cierre%",
+    "Iterations test~ [%insulto% %consejo% %personaje% the %accion% %cierre% ~]6 ~ [%insulto% %consejo% %personaje% the %accion% %cierre%~]8",
+    "%insulto% [%consejo% %personaje% ]2 %personaje% the %accion% %cierre%",
+    "%insulto% [%consejo% ]2 %personaje% %accion% %cierre%"
+  ],
+  "content": {
+    "insulto": [
+      "Galloping",
+      "Criying",
+      "Enlightening"
+    ],
+    "consejo": [
+      "trimphantly",
+      "quickly",
+      "eternally"
+    ],
+    "personaje": [
+      "through",
+      "into",
+      "above"
+    ],
+    "accion": [
+      "snowy",
+      "shining",
+      "glowing"
+    ],
+    "cierre": [
+      "moonlight",
+      "darkness",
+      "defendors"
+    ]
+  },
+  "version": "3.0.0a schema_test",
+  "author": "Dogo"
+}

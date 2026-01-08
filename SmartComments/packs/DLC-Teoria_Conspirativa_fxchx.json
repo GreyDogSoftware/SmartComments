@@ -1,0 +1,57 @@
+﻿{
+  "templates": [
+    "%num1% estan %num2% %num3% para %num4%"
+  ],
+  "content": {
+    "num1": [
+      "Las feministas",
+      "Bachelet",
+      "Los mapuche",
+      "Allende",
+      "Guillier",
+      "El frente amplio",
+      "El lobby gay",
+      "Los inmigrantes",
+      "Los progres",
+      "La izquierda marxista"
+    ],
+    "num2": [
+      "buscando",
+      "armando",
+      "conspirando con",
+      "organizando",
+      "creando",
+      "buscando alianzas con",
+      "entregando armas a",
+      "adoctrinando a",
+      "reclutando",
+      "trabajando"
+    ],
+    "num3": [
+      "estado islamico",
+      "universitarios",
+      "las farc",
+      "cubazuelanos",
+      "Kim Jong Un",
+      "transexuales",
+      "activistas de los DD.HH",
+      "animalistas",
+      "sicarios colombianos",
+      "Nicolas Maduro"
+    ],
+    "num4": [
+      "revivir el plan Z",
+      "imponer el marxismo cultural",
+      "acabar con la familia",
+      "destruir la raza chilena",
+      "cometer fraude electoral",
+      "instaurar la dictadura del proletariado",
+      "prseguir y exterminar hombres heterosexuales",
+      "quemar bosques en el sur",
+      "que seamos como Cuba y Venezuela",
+      "exterminar la gente rubia"
+    ]
+  },
+  "version": "1.0 Teoria fxchx",
+  "author": "Internet"
+}

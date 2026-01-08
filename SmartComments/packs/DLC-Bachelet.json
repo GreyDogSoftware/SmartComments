@@ -1,0 +1,79 @@
+﻿{
+  "templates": [
+    "%inicio%, %argumento% %relleno% %cierre%.",
+    "[%inicio%, %argumento% %relleno% %cierre%.~~]2",
+    "[%inicio%, %argumento% %relleno% %cierre%.~~]6"
+  ],
+  "content": {
+    "inicio": [
+      "Queridos compañeros",
+      "Por otra parte, y dados los condicionamientos actuales",
+      "Asi mismo",
+      "Sin embargo no hemos de olvidar que",
+      "De igual manera",
+      "La practica de la vida cotidiana prueba que",
+      "No es indispensable argumentar el peso y la significacion de estos problemas ya que",
+      "Las experiencias ricas y diversas muestran que",
+      "El afan de organizacion, pero sobre todo",
+      "Los superiores principios ideologicos, condicionan que",
+      "Incluso, bien pudieramos atrevernos a sugerir que",
+      "Es obvio señalar que",
+      "Pero pecariamos de insinceros y soslayasemos que",
+      "Y ademas, quedariamos inmersos en la mas abyecta de las estulticias si no fueramos conscientes de que",
+      "Por ultimo, y como definitivo elemento esclarecedor, cabe añadir que"
+    ],
+    "argumento": [
+      "la realizacion de las premisas del programa",
+      "la complejidad de los estudios de los dirigentes",
+      "el aumento constante, en cantidad y en extension, de nuestra actividad",
+      "la estructura actual de la organizacion",
+      "el nuevo modelo de actividad de la organizacion,",
+      "el desarrollo continuo de distintas formas de actividad",
+      "nuestra actividad de informacion y propaganda",
+      "el reforzamiento y desarrollo de las estructuras",
+      "la consulta con los numerosos militantes",
+      "el inicio de la accion general de formacion de las actitudes",
+      "un relanzamiento especifico de todo los sectores implicados",
+      "la superacion de experiencias periclitadas",
+      "una aplicacion indiscriminada de los factores confluyentes",
+      "la condicion sine qua non rectora del proceso",
+      "el proceso consensuado de unas y otras aplicaciones"
+    ],
+    "relleno": [
+      "nos obliga a un exhaustivo analisis",
+      "cumple un rol escencial en la formacion",
+      "exige la precision y la determinacion",
+      "ayuda a la preparacion y a la realizacion",
+      "garantiza la participacion de un grupo importante en la formacion",
+      "cumple deberes importantes en la determinacion",
+      "facilita la creacion",
+      "obstaculiza la apreciacion de la importancia",
+      "ofrece un ensayo interesante de verificacion",
+      "implica el proceso de reestructuracion y modernizacion",
+      "habra de significar un autentico y eficaz punto de partida",
+      "permite en todo caso explicitar las razones fundamentales",
+      "asegura, en todo caso, un proceso muy sensible de inversion",
+      "radica en una elaboracion cuidadosa y sistematica de las estrategias adecuadas",
+      "deriva de una indirecta incidencia superadora"
+    ],
+    "cierre": [
+      "de las condiciones financieras y administrativas existentes",
+      "de las directivas de desarrollo para el futuro",
+      "del sistema de participacion general",
+      "de las actitudes de los miembros hacia sus deberes ineludibles",
+      "de las nuevas proposiciones",
+      "de las direcciones educativas en el sentido del progreso",
+      "del sistema de formacion de cuadros que corresponda a las necesidades",
+      "de las condiciones de las actividades apropiadas",
+      "del modelo de desarrollo",
+      "de las formas de accion",
+      "de las basicas premisas adoptadas",
+      "de toda una casuistica de amplio espectro",
+      "de los elementos generadores",
+      "para configurar una interface amigable y coadyuvante a la reingenieria del sistema",
+      "de toda una serie de criterios ideologicamente sistematizados en un frente comun de actuacion regeneradora"
+    ]
+  },
+  "version": "1.0 BacheletBot",
+  "author": "Who knows"
+}
