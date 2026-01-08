@@ -1,6 +1,6 @@
 # **Smart Comments Generator**
 
-This is a legacy project. It was made as a joke around 2015 (before any AI stuff existed). Yes. The text generated is completely made out of pure RNG. There is no AI involved in the process (the secret sauce is in the templates).
+This is a legacy project. It was made as a joke around 2017 (before any AI stuff existed). Yes. The text generated is completely made out of pure RNG. There is no AI involved in the process (the secret sauce is in the templates).
 
 ### How does this works?
 
